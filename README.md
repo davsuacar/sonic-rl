@@ -1,4 +1,6 @@
 # Sonic RL Agent
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhypnosapos%2Fsonic-rl-remote.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhypnosapos%2Fsonic-rl-remote?ref=badge_shield)
+
 
 Requirements for training models on Mac:
 
@@ -39,3 +41,7 @@ $ polyaxon run -f polyaxonfile_dqn.yml -u
 ## Run model
 
 WIP
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhypnosapos%2Fsonic-rl-remote.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhypnosapos%2Fsonic-rl-remote?ref=badge_large)
